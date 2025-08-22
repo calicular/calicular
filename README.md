@@ -21,84 +21,31 @@
 - 🎯 Goal: Build scalable, user-focused solutions  
 
 ---
-## 🛠️ Tech Stack  
+## 🚀 Tech Stack
 
 <p align="center">
-  <!-- Frontend -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" 
-         alt="HTML5" width="60" height="60" style="margin:10px; transition: transform 0.3s;" 
-         onmouseover="this.style.transform='scale(1.2)';" 
-         onmouseout="this.style.transform='scale(1)';"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" 
-         alt="CSS3" width="60" height="60" style="margin:10px; transition: transform 0.3s;" 
-         onmouseover="this.style.transform='scale(1.2)';" 
-         onmouseout="this.style.transform='scale(1)';"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" 
-         alt="JavaScript" width="60" height="60" style="margin:10px; transition: transform 0.3s;" 
-         onmouseover="this.style.transform='rotate(10deg) scale(1.2)';" 
-         onmouseout="this.style.transform='rotate(0) scale(1)';"/>
-  </a>
-  <a href="https://react.dev/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" 
-         alt="React" width="60" height="60" style="margin:10px; transition: transform 0.3s;" 
-         onmouseover="this.style.transform='rotate(15deg) scale(1.2)';" 
-         onmouseout="this.style.transform='rotate(0) scale(1)';"/>
-  </a>
-</p>
-
-<p align="center">
-  <!-- Backend -->
-  <a href="https://www.php.net/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" 
-         alt="PHP" width="60" height="60" style="margin:10px; transition: transform 0.3s;" 
-         onmouseover="this.style.transform='scale(1.2)';" 
-         onmouseout="this.style.transform='scale(1)';"/>
-  </a>
-  <a href="https://www.apachefriends.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" 
-         alt="XAMPP/Apache" width="60" height="60" style="margin:10px; transition: transform 0.3s;" 
-         onmouseover="this.style.transform='rotate(-10deg) scale(1.2)';" 
-         onmouseout="this.style.transform='rotate(0) scale(1)';"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" 
-         alt="MongoDB" width="60" height="60" style="margin:10px; transition: transform 0.3s;" 
-         onmouseover="this.style.transform='scale(1.2)';" 
-         onmouseout="this.style.transform='scale(1)';"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" 
-         alt="MySQL" width="60" height="60" style="margin:10px; transition: transform 0.3s;" 
-         onmouseover="this.style.transform='rotate(15deg) scale(1.2)';" 
-         onmouseout="this.style.transform='rotate(0) scale(1)';"/>
-  </a>
-</p>
-
-<p align="center">
-  <!-- Tools -->
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" 
-         alt="Git" width="60" height="60" style="margin:10px; transition: transform 0.3s;" 
-         onmouseover="this.style.transform='scale(1.2)';" 
-         onmouseout="this.style.transform='scale(1)';"/>
-  </a>
-  <a href="https://github.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" 
-         alt="GitHub" width="60" height="60" style="margin:10px; transition: transform 0.3s;" 
-         onmouseover="this.style.transform='rotate(-15deg) scale(1.2)';" 
-         onmouseout="this.style.transform='rotate(0) scale(1)';"/>
-  </a>
-  <a href="https://www.postman.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" 
-         alt="Postman" width="60" height="60" style="margin:10px; transition: transform 0.3s;" 
-         onmouseover="this.style.transform='scale(1.2)';" 
-         onmouseout="this.style.transform='scale(1)';"/>
-  </a>
+  <!-- Languages -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go"/>
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust"/>
+  
+  <br/>
+  
+  <!-- Frameworks -->
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express"/>
+  
+  <br/>
+  
+  <!-- Tools & Cloud -->
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
 </p>
 
 ---
