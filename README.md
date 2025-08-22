@@ -1,6 +1,6 @@
 <!-- Banner Image (replace with your own if desired) -->
 <p align="center">
-  <img src="https://i.imgur.com/KS6Y2s3.jpg" alt="Old School Anime Banner" height="180" />
+  <img src="https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=800&q=80" alt="Cute Anime Banner" height="180" />
 </p>
 
 <!-- Animated Intro -->
