@@ -1,12 +1,14 @@
 <!-- Banner Image (replace with your own if desired) -->
 <p align="center">
-  <img src="https://github.com/calicular/calicular/blob/main/anime-cityscape-sunset.jpg?raw=true" alt="Cute Anime Banner" width="100%" height="350px" />
+  <img src="https://github.com/calicular/calicular/blob/main/anime-cityscape-sunset.jpg?raw=true" alt="Cute Anime Banner" width="100%" height="180" />
 </p>
 
-<!-- Animated Intro -->
 <p align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="60px" alt="Hi!" />
 </p>
+
+<h1 align="center">Hi, I'm calicular</h1>
+
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&pause=1000&center=true&vCenter=true&width=700&lines=Technical+Consultant;Software+Engineer" alt="Typing SVG" />
 </h1>
