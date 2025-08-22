@@ -1,6 +1,6 @@
 <!-- Banner Image (replace with your own if desired) -->
 <p align="center">
-  <img src="https://github.com/calicular/calicular/blob/main/anime-cityscape-sunset.jpg?raw=true" alt="Cute Anime Banner" width="100%" height="250" />
+  <img src="https://github.com/calicular/calicular/blob/main/anime-cityscape-sunset.jpg?raw=true" alt="Cute Anime Banner" width="100%" height="350px" />
 </p>
 
 <!-- Animated Intro -->
