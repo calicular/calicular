@@ -54,6 +54,10 @@
   <a href="https://expressjs.com/" target="_blank" title="Express">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" width="60" height="60" style="margin:10px; background:white; border-radius:10px;"/>
   </a>
+  <!-- Odoo -->
+  <a href="https://www.odoo.com/" target="_blank" title="Odoo">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/odoo/odoo-original.svg" alt="Odoo" width="60" height="60" style="margin:10px;"/>
+  </a>
   <!-- Tools & Cloud -->
   <a href="https://www.docker.com/" target="_blank" title="Docker">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="60" height="60" style="margin:10px;"/>
