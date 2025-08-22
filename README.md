@@ -1,97 +1,61 @@
-<!-- Banner Image (replace with your own if desired) -->
 <p align="center">
-  <img src="https://github.com/calicular/calicular/blob/main/anime-cityscape-sunset.jpg?raw=true" alt="Cute Anime Banner" width="100%" height="250" />
+  <img src="https://github.com/calicular/calicular/blob/main/anime-cityscape-sunset.jpg?raw=true" alt="Anime Cityscape Banner" width="100%" height="250" />
 </p>
 
 <p align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="60px" alt="Hi!" />
 </p>
 
-<h1 align="center">Hi, I'm calicular</h1>
+<h1 align="center">Hi, I'm <span style="color:#58a6ff;">calicular</span> 👨‍💻</h1>
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&pause=1000&center=true&vCenter=true&width=700&lines=Technical+Consultant;Software+Engineer" alt="Typing SVG" />
-</h1>
-
----
-
-## 🚀 Technical Consultant & Software Engineer
-
-I craft robust web solutions, blending creative frontend experiences with powerful backend logic.
+<h3 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=700&lines=Technical+Consultant;Software+Engineer;Problem+Solver;Lifelong+Learner" alt="Typing SVG" />
+</h3>
 
 ---
 
-## 🎨 Frontend Skills
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Vue.js-35495E?logo=vue.js&logoColor=4FC08D" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST_API-0052CC?logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" />
-</p>
-
-## ⚙️ Backend Skills
-<p>
-  <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Apache-D22128?logo=apache&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/RESTful_API-0052CC?logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/JWT-000000?logo=json-web-tokens&logoColor=white" />
-  <img src="https://img.shields.io/badge/Sessions-4EABCD?logo=express&logoColor=white" />
-</p>
-
-## 🛠️ Tools
-<p>
-  <img src="https://img.shields.io/badge/XAMPP-FB7A24?logo=xampp&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB_Atlas-47A248?logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Compass-47A248?logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" />
-</p>
+## 🚀 About Me  
+- 💼 Technical Consultant & Software Engineer  
+- ⚡ Focused on troubleshooting, backend (XAMPP + MongoDB), and frontend development  
+- 🌱 Currently learning **system integrations & modern web technologies**  
+- 🎯 Goal: Build scalable, user-focused solutions  
 
 ---
 
-## 💡 Featured Projects
+## 🛠️ Tech Stack  
 
-### 🛍️ E-commerce for Kpop Merchandise
-*A full-stack solution for passionate fans to find and buy their favorite Kpop items, with a seamless shopping experience and secure checkout.*
+**Frontend:**  
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff)  
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=fff)  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000)  
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000)  
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=fff)  
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwindcss&logoColor=fff)  
 
-![E-commerce Project Demo](https://placehold.co/600x200?text=Project+Demo+Image) <!-- Replace with your own project image -->
+**Backend & Databases:**  
+![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=fff)  
+![XAMPP](https://img.shields.io/badge/-XAMPP-FB7A24?logo=xampp&logoColor=fff)  
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=fff)  
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=fff)  
 
-### 📅 Appointment Booking Website
-*A modern web app for scheduling appointments, equipped with user-friendly booking flows and backend management.*
-
-![Booking Project Demo](https://placehold.co/600x200?text=Project+Demo+Image) <!-- Replace with your own project image -->
+**Tools & Others:**  
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff)  
+![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=fff)  
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=fff)  
 
 ---
 
-## ✨ GitHub Stats & Animations
-
+## 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=calicular&show_icons=true&theme=radical" alt="calicular's GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=calicular&theme=radical" alt="GitHub Streak" />
-  <br/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=calicular&theme=radical" alt="Profile Summary Card" />
+  <img src="https://github-readme-stats.vercel.app/api?username=calicular&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=calicular&layout=compact&theme=tokyonight" alt="Top Languages" height="165"/>
 </p>
 
 ---
 
-## 🌐 Let's Connect!
-<!-- Add your social links below (e.g. LinkedIn, Twitter, Portfolio, Email) -->
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/)  
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/)  
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000?logo=firefox-browser&logoColor=white)](https://yourwebsite.com/)  
-
----
-
-<!-- Fun fact or motto (optional) -->
-<p align="center"><i>"Building the web, one pixel at a time."</i></p>
+## 🌐 Connect With Me  
+<p align="center">
+  <a href="https://github.com/calicular"><img src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=fff" /></a>
+  <a href="https://www.linkedin.com/in/yourlinkedin" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=fff" /></a>
+  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=fff" /></a>
+</p>
