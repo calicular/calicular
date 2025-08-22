@@ -1,6 +1,6 @@
 <!-- Banner Image (replace with your own if desired) -->
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1461749280684-dccba630e2f6?auto=format&fit=crop&w=800&q=80" alt="Banner" width="100%"/>
+  <img src="https://images.alphacoders.com/120/1204534.jpg" alt="Old School Anime Banner" style="height:180px; object-fit:cover; border-radius:12px;" />
 </p>
 
 <!-- Animated Intro -->
