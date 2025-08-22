@@ -47,11 +47,17 @@
 
 ---
 
-## 📊 GitHub Stats  
+## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=calicular&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=calicular&layout=compact&theme=tokyonight" alt="Top Languages" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=calicular&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=calicular&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages" />
 </p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=calicular&theme=tokyonight&hide_border=true" height="165" alt="GitHub Streak" />
+</p>
+
 
 ---
 
