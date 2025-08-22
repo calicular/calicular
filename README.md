@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/calicular/calicular/blob/main/16894-cute-anime-cat.gif?raw=true" alt="Cute Anime Cat Banner" width="100%" />
+  <img src="https://github.com/calicular/calicular/blob/main/16894-cute-anime-cat.gif?raw=true" alt="Cute Anime Cat Banner" width="100%" height="300px" />
 </p>
 <p align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="60px" alt="Hi!" />
