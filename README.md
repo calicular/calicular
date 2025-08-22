@@ -21,27 +21,85 @@
 - 🎯 Goal: Build scalable, user-focused solutions  
 
 ---
-
 ## 🛠️ Tech Stack  
 
-**Frontend:**  
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff)  
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=fff)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000)  
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000)  
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=fff)  
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwindcss&logoColor=fff)  
+<p align="center">
+  <!-- Frontend -->
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" 
+         alt="HTML5" width="60" height="60" style="margin:10px; transition: transform 0.3s;" 
+         onmouseover="this.style.transform='scale(1.2)';" 
+         onmouseout="this.style.transform='scale(1)';"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" 
+         alt="CSS3" width="60" height="60" style="margin:10px; transition: transform 0.3s;" 
+         onmouseover="this.style.transform='scale(1.2)';" 
+         onmouseout="this.style.transform='scale(1)';"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" 
+         alt="JavaScript" width="60" height="60" style="margin:10px; transition: transform 0.3s;" 
+         onmouseover="this.style.transform='rotate(10deg) scale(1.2)';" 
+         onmouseout="this.style.transform='rotate(0) scale(1)';"/>
+  </a>
+  <a href="https://react.dev/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" 
+         alt="React" width="60" height="60" style="margin:10px; transition: transform 0.3s;" 
+         onmouseover="this.style.transform='rotate(15deg) scale(1.2)';" 
+         onmouseout="this.style.transform='rotate(0) scale(1)';"/>
+  </a>
+</p>
 
-**Backend & Databases:**  
-![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=fff)  
-![XAMPP](https://img.shields.io/badge/-XAMPP-FB7A24?logo=xampp&logoColor=fff)  
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=fff)  
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=fff)  
+<p align="center">
+  <!-- Backend -->
+  <a href="https://www.php.net/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" 
+         alt="PHP" width="60" height="60" style="margin:10px; transition: transform 0.3s;" 
+         onmouseover="this.style.transform='scale(1.2)';" 
+         onmouseout="this.style.transform='scale(1)';"/>
+  </a>
+  <a href="https://www.apachefriends.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" 
+         alt="XAMPP/Apache" width="60" height="60" style="margin:10px; transition: transform 0.3s;" 
+         onmouseover="this.style.transform='rotate(-10deg) scale(1.2)';" 
+         onmouseout="this.style.transform='rotate(0) scale(1)';"/>
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" 
+         alt="MongoDB" width="60" height="60" style="margin:10px; transition: transform 0.3s;" 
+         onmouseover="this.style.transform='scale(1.2)';" 
+         onmouseout="this.style.transform='scale(1)';"/>
+  </a>
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" 
+         alt="MySQL" width="60" height="60" style="margin:10px; transition: transform 0.3s;" 
+         onmouseover="this.style.transform='rotate(15deg) scale(1.2)';" 
+         onmouseout="this.style.transform='rotate(0) scale(1)';"/>
+  </a>
+</p>
 
-**Tools & Others:**  
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff)  
-![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=fff)  
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=fff)  
+<p align="center">
+  <!-- Tools -->
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" 
+         alt="Git" width="60" height="60" style="margin:10px; transition: transform 0.3s;" 
+         onmouseover="this.style.transform='scale(1.2)';" 
+         onmouseout="this.style.transform='scale(1)';"/>
+  </a>
+  <a href="https://github.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" 
+         alt="GitHub" width="60" height="60" style="margin:10px; transition: transform 0.3s;" 
+         onmouseover="this.style.transform='rotate(-15deg) scale(1.2)';" 
+         onmouseout="this.style.transform='rotate(0) scale(1)';"/>
+  </a>
+  <a href="https://www.postman.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" 
+         alt="Postman" width="60" height="60" style="margin:10px; transition: transform 0.3s;" 
+         onmouseover="this.style.transform='scale(1.2)';" 
+         onmouseout="this.style.transform='scale(1)';"/>
+  </a>
+</p>
 
 ---
 
