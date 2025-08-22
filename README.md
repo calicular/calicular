@@ -21,7 +21,6 @@
 - 🎯 Goal: Build scalable, user-focused solutions  
 
 ---
-
 ## 🚀 Tech Stack
 
 <p align="center">
@@ -39,7 +38,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Go" width="60" height="60" style="margin:10px;"/>
   </a>
   <a href="https://www.rust-lang.org/" target="_blank" title="Rust">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" alt="Rust" width="60" height="60" style="margin:10px;"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" alt="Rust" width="60" height="60" style="margin:10px;"/>
   </a>
   <!-- Frameworks -->
   <a href="https://react.dev/" target="_blank" title="React">
